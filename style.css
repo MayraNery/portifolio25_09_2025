@@ -1,0 +1,54 @@
+body{
+    background-color: #fdddff;
+}
+ header{
+    text-align: right;
+    margin: 10px;
+    padding: 10px 200px;
+ }
+
+ img{
+    width: 316px;
+    height: 353px;
+ }
+
+ .texto{
+    display: flex;
+    flex-direction: column;
+    font-style: italic;
+ }
+ .texto h1{
+    text-align: center;
+    font-size: 67px;
+    color: #E804B7;
+ }
+
+ .texto .nome{
+    font-size: 32px;
+    color: #883BDB;
+ }
+
+    texto.info-bio{
+    font-size: 70px;
+    color: rgb(10, 0, 9);
+    }
+
+ ul{
+    font-size: 20px;
+    text-align: center;
+ }
+
+ h2{
+    text-align: center;
+    padding: 10px 200px;
+ }
+
+ .estrutura{
+    display: flex;
+    height: 90vh;
+ }
+
+ footer{
+    text-align: center;
+    font-style: italic;
+ }
